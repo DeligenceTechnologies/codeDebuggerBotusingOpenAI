@@ -1,6 +1,10 @@
 # Code Debugger Bot 
     A powerful code debugger bot made using OpenAI's ChatGPT model. 
-    This bot can help you debug your code in a variety of ways, including identifying potential bugs and errors, suggesting fixes, explaining the behavior of your code, and providing insights into the performance of your code.
+    This bot can help you debug your code in a variety of ways:- 
+        Identifying potential bugs and errors. 
+        Suggesting fixes.
+        Explaining the behavior of your code.
+        Providing insights into the performance of your code.
 
 # Technologies Used:-
 
